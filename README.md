@@ -1,5 +1,6 @@
 # OrbitalMesh: Decentralized Nanosatellite Swarm Coordination Platform
 
+
 ## Project Overview
 
 OrbitalMesh is a revolutionary blockchain-powered platform designed to democratize and optimize nanosatellite swarm operations through decentralized technologies, smart contracts, and collaborative space infrastructure.
